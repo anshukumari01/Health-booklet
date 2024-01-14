@@ -5,7 +5,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR,'templates')
 STATIC_DIR=os.path.join(BASE_DIR,'static')
 SECRET_KEY = 'hpbv()ep00boce&o0w7z1h)st148(*m@6@-rk$nn)(n9ojj4c0'
 
-DEBUG = True
+DEBUG = False
 ALLOWED_HOSTS = ['*']
 
 
