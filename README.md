@@ -4,7 +4,7 @@ Instructions to run the software
 1. First Clone the repository in your local machine
 2.Open terminal in directory in which you have downloaded the code.
 3. Run the following Code to download the dependencies:
-  $ pip install -r requirement.txt
+  $ pip install -r requirements.txt
 4. Now to make database migrations run: 
   $ python3 manage.py makemigrations
 5. Then run command
